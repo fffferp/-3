@@ -30,7 +30,7 @@
 ###Задание 1. Расширьте варианты доступного оружия в игре. Используйте шаблон таблицы для визуализации оружия игры Save RTF.
 
 
-![image](https://github.com/user-attachments/assets/1221617c-0325-43e2-8d60-28722f7b9bca)
+!(https://github.com/user-attachments/assets/1221617c-0325-43e2-8d60-28722f7b9bca)
 
 
 
@@ -41,7 +41,7 @@
 - Вариативность времени отклика игрока 
 
 
-![image](378892513-8883fba0-93be-4cf5-95cb-1411d23c083d](https://github.com/user-attachments/assets/43444c61-23c8-423f-82b1-454456969ab5)
+![378892513-8883fba0-93be-4cf5-95cb-1411d23c083d](https://github.com/user-attachments/assets/43444c61-23c8-423f-82b1-454456969ab5)
 
 
 
