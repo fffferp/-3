@@ -19,7 +19,6 @@
 - ст. преп., Фадеев В.О.
 
 
-![Uploading 378892286-1221617c-0325-43e2-8d60-28722f7b9bca.png…]()
 
 
 
@@ -52,7 +51,8 @@
 ###Задание 3. Решение в 80+ баллов должно визуализировать данные из google-таблицы, и с помощью Python передавать переменные в проект Unity. В Python данные также должны быть визуализированы.
 
 
-![image](https://github.com/user-attachments/assets/400a4a21-cbf9-4369-b4f0-868533ff2bab)
+
+![378892759-400a4a21-cbf9-4369-b4f0-868533ff2bab](https://github.com/user-attachments/assets/c497e26f-d7f2-45e0-9e84-b992fddbb384)
 
 
 
