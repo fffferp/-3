@@ -18,7 +18,7 @@
 - к.э.н., доцент Панов М.А.
 - ст. преп., Фадеев В.О.
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+![Uploading 378892286-1221617c-0325-43e2-8d60-28722f7b9bca.png…]()
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
