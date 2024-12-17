@@ -30,7 +30,8 @@
 ###Задание 1. Расширьте варианты доступного оружия в игре. Используйте шаблон таблицы для визуализации оружия игры Save RTF.
 
 
-!(https://github.com/user-attachments/assets/1221617c-0325-43e2-8d60-28722f7b9bca)
+![378892286-1221617c-0325-43e2-8d60-28722f7b9bca](https://github.com/user-attachments/assets/e206c1ec-4428-4acd-93d9-a86a5d9c211e)
+
 
 
 
