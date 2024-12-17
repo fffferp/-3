@@ -18,9 +18,9 @@
 - к.э.н., доцент Панов М.А.
 - ст. преп., Фадеев В.О.
 
+
 ![Uploading 378892286-1221617c-0325-43e2-8d60-28722f7b9bca.png…]()
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
 ## Цель работы
@@ -42,7 +42,8 @@
 - Вариативность времени отклика игрока 
 
 
-![image](https://github.com/user-attachments/assets/8883fba0-93be-4cf5-95cb-1411d23c083d)
+![image](378892513-8883fba0-93be-4cf5-95cb-1411d23c083d](https://github.com/user-attachments/assets/43444c61-23c8-423f-82b1-454456969ab5)
+
 
 
 
